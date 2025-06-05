@@ -1,0 +1,39 @@
+# ========== Unity Generated ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ========== IDEs and Tools ==========
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# ========== OS-Specific ==========
+.DS_Store
+Thumbs.db
+
+# ========== Unity SCM ==========
+.plastic/
+
+# ========== Others ==========
+*.apk
+*.aab
+*.exe
+*.log
+*.bak
+*.old

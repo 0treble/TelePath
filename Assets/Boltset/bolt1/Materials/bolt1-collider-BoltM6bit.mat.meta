@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d034d3c138dd0445868b6752b456e2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2763
+  packageName: Bolt and Nut
+  packageVersion: 0.1
+  assetPath: Assets/Boltset/bolt1/Materials/bolt1-collider-BoltM6bit.mat
+  uploadId: 26002

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c608e07db491a540b5221452cef57b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2763
+  packageName: Bolt and Nut
+  packageVersion: 0.1
+  assetPath: Assets/Boltset/bolt1/Materials/Bolt1bit.mat
+  uploadId: 26002

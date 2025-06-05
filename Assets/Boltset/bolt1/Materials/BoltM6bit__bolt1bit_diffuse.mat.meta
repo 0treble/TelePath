@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b05635c301d1ee4c975f1f662aa50fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2763
+  packageName: Bolt and Nut
+  packageVersion: 0.1
+  assetPath: Assets/Boltset/bolt1/Materials/BoltM6bit__bolt1bit_diffuse.mat
+  uploadId: 26002

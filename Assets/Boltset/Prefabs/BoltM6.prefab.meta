@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e415ce8b079c6474e9322f800256364c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2763
+  packageName: Bolt and Nut
+  packageVersion: 0.1
+  assetPath: Assets/Boltset/Prefabs/BoltM6.prefab
+  uploadId: 26002

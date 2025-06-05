@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eb2b04def9f8be43880f21799636a3e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2763
+  packageName: Bolt and Nut
+  packageVersion: 0.1
+  assetPath: Assets/Boltset/nut1/Materials/NutM6__NutM6-diffuse.mat
+  uploadId: 26002
