@@ -1,6 +1,6 @@
-# SSVEP-Controlled VR Maze Navigation Using EEG and Unity
+# SSVEP-Based VR Maze Navigation Using EEG and Unity
 
-This project presents a Unity-based virtual reality (VR) maze navigation game controlled entirely through a Steady-State Visual Evoked Potential (SSVEP)-based Brain-Computer Interface (BCI). It was developed as part of the Neural Engineering Master's programme at Saarland University of Applied Sciences.
+This project presents a virtual reality (VR) maze navigation game controlled entirely through a Steady-State Visual Evoked Potential (SSVEP)-based Brain-Computer Interface (BCI). It was developed as part of the Neural Engineering Master's programme at Saarland University of Applied Sciences.
 
 ## Project Overview
 
